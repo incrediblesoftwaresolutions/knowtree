@@ -1,7 +1,7 @@
 knowtree
 ========
 
-Library program to help schools in poor areas have access to knowledge - this program will also be sold by IncredibleSoftwaresolutions to those who can afford to pay so that development costs can be covered. 
+Library program to help schools in poor areas have access to knowledge - this program will also be sold as a service eventually  by IncredibleSoftwaresolutions to those  who can afford to pay so that costs can be covered and more schools can benefit over time, servers cost money and so does hosting web sites.
 
 If you take the code, please do submit your changes back to the tree.
 
