@@ -14,9 +14,9 @@
 <license>License,GNU/GPL v3</license>
 <version>0.01</version>
 <description>joomla code to set up plugin - needs more work.
-This is the LibraryDataStore plugin to be built and to be added to the special &copy 'knowtree' wordpress theme
-I want to make the installation more interactive so that librarians can add thier own custon fields
-and add to the extensive listing to be autmatically installed and used with an optional bar code scanner
+This is the LibraryDataStore plugin to be built and to be added to the special &copy 'knowtree' joomla 3.0 theme
+I want to make the installation more interactive so that librarians can add their own custom fields
+and add to the extensive listing to be automatically installed and used with an optional bar code scanner
 
 </description>
 
